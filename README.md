@@ -2,7 +2,7 @@
 
 Detecting obstructive sleep apnea from single-lead ECG recordings using signal processing, heart rate variability (HRV) features and machine learning.
 
-This work was published in **BP International (2024)**: _[Add exact publication title and link here]_
+This work was published in **BP International (2024)**: https://stm.bookpi.org/RHST-V9/article/view/11635
 
 ---
 
